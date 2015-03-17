@@ -1,0 +1,18 @@
+﻿p{
+	text-indent: 2em;
+}
+
+div#main{
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+div.img{
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+}
